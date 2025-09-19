@@ -10,5 +10,5 @@ export function middleware() {
     console.log("🚀 Middleware is running")
 }
 export const config = {
-    matcher: ["/:path*", "/Dashboard/:path*"], // protect home + all dashboard pages
+    matcher: [ "/Dashboard/:path*"], // protect home + all dashboard pages
 }

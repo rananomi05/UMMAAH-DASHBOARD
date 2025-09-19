@@ -1,3 +1,4 @@
+"use client"
 import React from 'react'
 import { FaCheck, FaCalendarAlt, FaPlus, FaBook, FaStar, FaEllipsisH, FaSearch, FaFolderOpen, FaHistory, FaPrayingHands, FaUser, FaPencilAlt, FaUpload, FaRegClock } from 'react-icons/fa';
 import { HiBookOpen } from 'react-icons/hi';
